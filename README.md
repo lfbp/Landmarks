@@ -52,3 +52,5 @@ Download the project and run it using Xcode Simulator.
 
   
 ![Screenshot 1](https://github.com/lfbp/Landmarks/blob/main/Screenshot%202023-10-04%20at%2012.14.02.png?raw=true)
+![Screenshot 1](https://github.com/lfbp/Landmarks/blob/main/Screenshot%202023-10-04%20at%2012.14.10.png?raw=true)
+![Screenshot 1](https://github.com/lfbp/Landmarks/blob/main/Screenshot%202023-10-04%20at%2012.14.15.png?raw=true)
